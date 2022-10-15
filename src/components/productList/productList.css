@@ -1,0 +1,27 @@
+.plist {
+  padding: 50px 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.plist-texts {
+  width: 65%;
+}
+
+.plist-title {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.plist-desc {
+  margin: 20px 0px;
+}
+
+.plist-product {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
