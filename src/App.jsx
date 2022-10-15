@@ -1,10 +1,12 @@
-import React from 'react'
-import Intros from './components/intro/Intros';
+import React from "react";
+import About from "./components/about/About";
+import Intros from "./components/intro/Intros";
 
 function App() {
   return (
     <div>
-      <Intros/>
+      <Intros />
+      <About />
     </div>
   );
 }
