@@ -80,3 +80,8 @@ button {
   border-radius: 5px;
   width: 20%;
 }
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
